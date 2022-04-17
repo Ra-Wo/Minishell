@@ -5,7 +5,7 @@ A program capable of parsing a prompt and launching executables with arguments, 
 
 ## How to use:
 
-you must first install readline on your machine
+you must first install readline on your machine (https://formulae.brew.sh/formula/readline)
 ```shell
 git clone https://github.com/Ra-Wo/Minishell.git && make && make clean && ./minishell
 ```
